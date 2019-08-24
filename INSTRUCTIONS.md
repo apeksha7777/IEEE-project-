@@ -30,6 +30,9 @@ $ truffle console
 
 # Using the web interface
 
+### Install lite-server
+$ npm install lite-server
+
 ### Run ganache
 $ ganache-cli
 
