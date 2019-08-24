@@ -1,11 +1,11 @@
 # Run ganache
-$ ganache-cli
+`$ ganache-cli`
 
 # Migrate the contract
-$ truffle migrate -reset
+`$ truffle migrate -reset`
 
 ## Open the truffle console
-$ truffle console
+`$ truffle console`
 
 #### To create a contract instance:
 > Election.deployed().then(function(i) { app=i; })
@@ -31,16 +31,16 @@ $ truffle console
 # Using the web interface
 
 ### Install lite-server
-$ npm install lite-server
+`$ npm install lite-server`
 
 ### Run ganache
-$ ganache-cli
+`$ ganache-cli`
 
 ### Migrate the contracts
-$ truffle migrate --reset
+`$ truffle migrate --reset`
 
 ### Run the web interface
-$ npm run dev
+`$ npm run dev`
 
 ### Once the webpage is open
 1. Go to the metamask extension and select accept address<br/>
