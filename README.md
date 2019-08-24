@@ -11,7 +11,7 @@ $ sudo apt install snapd
 
 
 # install VSCode :
-windows/mac : https://code.visualstudio.com/download<br/>
+windows/mac : https://code.visualstudio.com/download<br/></br>
 ubuntu : $ sudo snap install code --classic
 
 
@@ -62,7 +62,7 @@ yarn : $ yarn global add ganache-cli<br/>
 install ganache GUI : https://www.trufflesuite.com/ganache<br/>
 
 
-# run ganache:
+# run ganache-cli:
 
 $ ganache-cli --port 8545
 <br/>
