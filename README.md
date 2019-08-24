@@ -8,20 +8,24 @@ https://metamask.io/
 $ sudo apt install snapd
 
 # install VSCode :
-windows/mac : https://code.visualstudio.com/download<br/>
-ubuntu : $ sudo snap install code --classic
+windows/mac :<br/>
+https://code.visualstudio.com/download<br/>
+ubuntu :<br/>
+$ sudo snap install code --classic
 
 # install sublime:
 ubuntu :<br/>
 $ wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -<br/>
 $ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list<br/>
-$ sudo apt install sublime-text<br/>
-<br/>
-windows : https://www.sublimetext.com/3 <br/>
+$ sudo apt install sublime-text<br/><br/>
+windows :<br/>
+https://www.sublimetext.com/3 <br/>
 
 # install nodejs:
-windows : https://nodejs.org/en/download/ <br/>
-mac : brew install node <br/>
+windows :<br/>
+https://nodejs.org/en/download/ <br/><br/>
+mac :<br/>
+brew install node <br/><br/>
 ubuntu:<br/>
 $ sudo apt install curl <br/>
 $ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash - <br/>
