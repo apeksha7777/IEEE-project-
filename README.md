@@ -8,13 +8,13 @@ https://metamask.io/
 `$ sudo apt install snapd`
 
 # install VSCode :
-windows/mac :<br/>
+windows / mac :<br/>
 https://code.visualstudio.com/download<br/>
 ubuntu :<br/>
 `$ sudo snap install code --classic`
 
 # install sublime:
-ubuntu :<br/>
+ubuntu :
 ```
 $ wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
 $ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
@@ -28,8 +28,8 @@ https://www.sublimetext.com/3 <br/>
 windows :<br/>
 https://nodejs.org/en/download/ <br/><br/>
 mac :<br/>
-`brew install node` <br/>
-ubuntu:<br/>
+`brew install node` <br/><br/>
+ubuntu:
 ```
 $ sudo apt install curl
 $ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
