@@ -40,17 +40,8 @@ $ npm -v<br/>
 
 # install truffle:
 
-windows:<br/>
 $ npm install -g npm<br/>
-$ npm install -g ethereumjs-testrpc<br/>
 $ npm install -g truffle<br/>
-
-ubuntu/mac:
-$ npm install -g truffle<br/>
-
-
-# run testrpc(windows) :
-$ testrpc<br/>
 
 
 # install ganache-cli:
