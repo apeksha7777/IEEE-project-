@@ -46,3 +46,5 @@ install ganache GUI : https://www.trufflesuite.com/ganache<br/>
 
 # run ganache-cli:
 $ ganache-cli<br/>
+<br/> <br/>
+For all the commands check [INSTRUCTIONS.md](INSTRUCTIONS.md)
