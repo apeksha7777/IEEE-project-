@@ -1,4 +1,4 @@
-IEEE Worshop: "Building a DApp"
+#IEEE Worshop: "Building a DApp"
 
 # Link to join our whatsapp group
 https://bit.ly/2KQtuPE</br>
