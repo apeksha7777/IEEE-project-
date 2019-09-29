@@ -1,8 +1,5 @@
 # IEEE Worshop: "Building a DApp"
 
-# Link to join our whatsapp group
-https://bit.ly/2KQtuPE</br>
-
 # add metamask extension to chrome/firefox :
 https://metamask.io/
 
